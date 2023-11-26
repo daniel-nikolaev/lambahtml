@@ -22,7 +22,7 @@ function submit_data(){
         }
         return a
     }  
-    fetch('https://oupp565e9e.execute-api.us-east-1.amazonaws.com/v1/put-data', {
+    fetch('https://nwqrrz1992.execute-api.us-east-1.amazonaws.com/v1/put-data', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
